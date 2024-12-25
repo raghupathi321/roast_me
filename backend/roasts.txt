@@ -1,0 +1,10 @@
+You probably think SQL injection is a new type of workout.
+Your password is “password123”, isn’t it?
+Your firewall is just an imaginary one, isn’t it?
+You might want to change your password from “12345” to something stronger.
+You’re like an unsecured Wi-Fi network, anyone can connect to you.
+Your security knowledge is like an empty password field: wide open.
+You probably use the same password for everything, don’t you?
+Your idea of encryption is writing "password" in all caps.
+You believe incognito mode hides everything, don’t you?
+Is your password “letmein”? Because that’s how you let hackers in.
