@@ -44,7 +44,7 @@ def scrape_tryhackme_user_data(username):
 
 # Function to interact with Gemini API to generate content
 def generate_gemini_content(prompt):
-    gemini_api_key = "AIzaSyBoTdRdoI6cZKGo3e5KQAXygQ1_VLhv0IM"  # Replace with your Gemini API key
+    gemini_api_key = ""  # Replace with your Gemini API key
     url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" + gemini_api_key
     headers = {
         'Content-Type': 'application/json',
